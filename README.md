@@ -1,7 +1,5 @@
 # Heart Disease Predictor
 
-## Overview
-
 The **Heart Disease Predictor** is a machine learning-powered web application built with [Streamlit](https://streamlit.io/). It provides a simple and interactive user interface to predict a person's risk of heart disease based on various health metrics and medical attributes.
 
 The app uses a trained **Logistic Regression** model along with a pre-fitted scaler to process user inputs and deliver an instant prediction. 
@@ -22,7 +20,8 @@ The app uses a trained **Logistic Regression** model along with a pre-fitted sca
 
 ## Screenshots
 
-![Screenshot](screenshot.png)
+![Screenshot 1](screenshot1.png)
+![Screenshot 2](screenshot2.png)
 
 ## Installation and Setup
 
