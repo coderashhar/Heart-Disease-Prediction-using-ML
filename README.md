@@ -1,6 +1,6 @@
 # CardioPredict-Ai
 
-The **CardioPredict-Ai** is a machine learning-powered web application that provides a simple and interactive user interface to predict a person's risk of heart disease based on various health metrics and medical attributes.
+**CardioPredict-Ai** is a machine learning-powered web application that provides a simple and interactive user interface to predict a person's risk of heart disease based on various health metrics and medical attributes.
 
 The app uses a trained **Logistic Regression** model along with a pre-fitted scaler to process user inputs and deliver an instant prediction. 
 
