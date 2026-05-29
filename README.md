@@ -1,6 +1,6 @@
-# Heart Disease Predictor
+# CardioPredict-Ai
 
-The **Heart Disease Predictor** is a machine learning-powered web application built with [Streamlit](https://streamlit.io/). It provides a simple and interactive user interface to predict a person's risk of heart disease based on various health metrics and medical attributes.
+The **CardioPredict-Ai** is a machine learning-powered web application built with [Streamlit](https://streamlit.io/). It provides a simple and interactive user interface to predict a person's risk of heart disease based on various health metrics and medical attributes.
 
 The app uses a trained **Logistic Regression** model along with a pre-fitted scaler to process user inputs and deliver an instant prediction. 
 
@@ -28,7 +28,7 @@ The app uses a trained **Logistic Regression** model along with a pre-fitted sca
 1. **Clone the repository:**
    ```bash
    git clone <your-repo-url>
-   cd "Heart Disease Predictor"
+   cd "CardioPredict Ai"
    ```
 
 2. **Install the required dependencies:**
